@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบริหารข้อมูลนักศึกษาและพิมพ์ใบลงทะเบียนเรียน สกร. (DATA.ZIP)",
+  "description": "ระบบจัดการข้อมูลนักศึกษา สกร./กศน. รองรับนำเข้า DATA.ZIP เพิ่มข้อมูล/ภาคเรียน ส่งออกใบลงทะเบียน Word (.docx), PDF และสั่งพิมพ์ตามแบบมาตรฐาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
